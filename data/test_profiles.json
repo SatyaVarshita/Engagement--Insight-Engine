@@ -1,0 +1,1218 @@
+[
+  {
+    "user_id": "test_stu_0_0",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "data science",
+        "machine learning",
+        "GRE"
+      ],
+      "karma": 461,
+      "projects_added": 1,
+      "quiz_history": [
+        "data structures"
+      ],
+      "clubs_joined": [
+        "data science club"
+      ],
+      "buddy_count": 3
+    },
+    "activity": {
+      "login_streak": 2,
+      "posts_created": 10,
+      "buddies_interacted": 5,
+      "last_event_attended": "2025-05-30"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_1",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "cloud computing"
+      ],
+      "karma": 345,
+      "projects_added": 3,
+      "quiz_history": [
+        "javascript"
+      ],
+      "clubs_joined": [
+        "AI club"
+      ],
+      "buddy_count": 1
+    },
+    "activity": {
+      "login_streak": 3,
+      "posts_created": 1,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-06-04"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_2",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "web development"
+      ],
+      "karma": 350,
+      "projects_added": 4,
+      "quiz_history": [],
+      "clubs_joined": [
+        "coding club"
+      ],
+      "buddy_count": 5
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 1,
+      "buddies_interacted": 2,
+      "last_event_attended": "2025-06-16"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_3",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "GRE"
+      ],
+      "karma": 196,
+      "projects_added": 3,
+      "quiz_history": [
+        "aptitude"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 1
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 9,
+      "buddies_interacted": 5,
+      "last_event_attended": "2025-06-15"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_4",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "web development",
+        "cloud computing",
+        "DevOps"
+      ],
+      "karma": 315,
+      "projects_added": 1,
+      "quiz_history": [
+        "aptitude",
+        "algorithms",
+        "javascript",
+        "java"
+      ],
+      "clubs_joined": [
+        "coding club",
+        "AI club"
+      ],
+      "buddy_count": 4
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 2,
+      "buddies_interacted": 0,
+      "last_event_attended": "2025-05-26"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_5",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "GRE"
+      ],
+      "karma": 133,
+      "projects_added": 3,
+      "quiz_history": [],
+      "clubs_joined": [
+        "data science club",
+        "coding club",
+        "cloud computing club"
+      ],
+      "buddy_count": 0
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 8,
+      "buddies_interacted": 2,
+      "last_event_attended": "2025-05-30"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_6",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "cloud computing"
+      ],
+      "karma": 462,
+      "projects_added": 4,
+      "quiz_history": [
+        "java",
+        "aptitude",
+        "algorithms",
+        "python"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 1
+    },
+    "activity": {
+      "login_streak": 0,
+      "posts_created": 8,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-05-29"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_7",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "data science",
+        "machine learning"
+      ],
+      "karma": 438,
+      "projects_added": 0,
+      "quiz_history": [
+        "algorithms",
+        "python",
+        "javascript",
+        "data structures"
+      ],
+      "clubs_joined": [
+        "data science club"
+      ],
+      "buddy_count": 2
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 6,
+      "buddies_interacted": 2,
+      "last_event_attended": "2025-06-13"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_8",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "DevOps",
+        "web development"
+      ],
+      "karma": 284,
+      "projects_added": 5,
+      "quiz_history": [
+        "aptitude",
+        "java"
+      ],
+      "clubs_joined": [
+        "AI club"
+      ],
+      "buddy_count": 6
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 1,
+      "buddies_interacted": 0,
+      "last_event_attended": "2025-06-15"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_0_9",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "GRE",
+        "DevOps"
+      ],
+      "karma": 405,
+      "projects_added": 3,
+      "quiz_history": [
+        "java"
+      ],
+      "clubs_joined": [
+        "AI club",
+        "cloud computing club"
+      ],
+      "buddy_count": 5
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 4,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-05-30"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "batch_event_attendance": {
+        "hackathon": 8,
+        "workshop": 7,
+        "coding-contest": 15
+      },
+      "buddies_attending_events": [
+        "coding-contest",
+        "hackathon",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_0",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "machine learning",
+        "GRE"
+      ],
+      "karma": 433,
+      "projects_added": 3,
+      "quiz_history": [
+        "python"
+      ],
+      "clubs_joined": [
+        "AI club",
+        "coding club"
+      ],
+      "buddy_count": 10
+    },
+    "activity": {
+      "login_streak": 3,
+      "posts_created": 4,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-06-16"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_1",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "web development",
+        "machine learning"
+      ],
+      "karma": 175,
+      "projects_added": 2,
+      "quiz_history": [],
+      "clubs_joined": [
+        "coding club",
+        "AI club",
+        "data science club"
+      ],
+      "buddy_count": 4
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 4,
+      "buddies_interacted": 0,
+      "last_event_attended": "2025-06-01"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_2",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "GRE"
+      ],
+      "karma": 428,
+      "projects_added": 1,
+      "quiz_history": [
+        "javascript",
+        "data structures",
+        "algorithms",
+        "java"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 9
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 3,
+      "buddies_interacted": 1,
+      "last_event_attended": "2025-05-25"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_3",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "web development"
+      ],
+      "karma": 492,
+      "projects_added": 3,
+      "quiz_history": [
+        "javascript"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 3
+    },
+    "activity": {
+      "login_streak": 3,
+      "posts_created": 4,
+      "buddies_interacted": 5,
+      "last_event_attended": "2025-06-13"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_4",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "GRE"
+      ],
+      "karma": 234,
+      "projects_added": 3,
+      "quiz_history": [],
+      "clubs_joined": [
+        "data science club"
+      ],
+      "buddy_count": 6
+    },
+    "activity": {
+      "login_streak": 2,
+      "posts_created": 3,
+      "buddies_interacted": 1,
+      "last_event_attended": "2025-06-08"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_5",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "DevOps",
+        "GRE",
+        "data science"
+      ],
+      "karma": 367,
+      "projects_added": 2,
+      "quiz_history": [
+        "java",
+        "algorithms"
+      ],
+      "clubs_joined": [
+        "coding club",
+        "data science club",
+        "cloud computing club"
+      ],
+      "buddy_count": 1
+    },
+    "activity": {
+      "login_streak": 5,
+      "posts_created": 6,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-06-19"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_6",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "cloud computing"
+      ],
+      "karma": 405,
+      "projects_added": 4,
+      "quiz_history": [
+        "javascript",
+        "data structures"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 8
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 10,
+      "buddies_interacted": 2,
+      "last_event_attended": "2025-06-04"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_7",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "web development",
+        "cloud computing"
+      ],
+      "karma": 486,
+      "projects_added": 5,
+      "quiz_history": [
+        "aptitude",
+        "algorithms",
+        "java"
+      ],
+      "clubs_joined": [
+        "AI club"
+      ],
+      "buddy_count": 6
+    },
+    "activity": {
+      "login_streak": 0,
+      "posts_created": 7,
+      "buddies_interacted": 1,
+      "last_event_attended": "2025-06-04"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_8",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "web development",
+        "DevOps",
+        "data science"
+      ],
+      "karma": 293,
+      "projects_added": 2,
+      "quiz_history": [
+        "python",
+        "javascript",
+        "algorithms",
+        "data structures"
+      ],
+      "clubs_joined": [
+        "data science club",
+        "cloud computing club",
+        "AI club"
+      ],
+      "buddy_count": 9
+    },
+    "activity": {
+      "login_streak": 3,
+      "posts_created": 7,
+      "buddies_interacted": 1,
+      "last_event_attended": "2025-06-23"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_1_9",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "web development",
+        "data science",
+        "machine learning"
+      ],
+      "karma": 281,
+      "projects_added": 0,
+      "quiz_history": [
+        "python",
+        "java",
+        "javascript"
+      ],
+      "clubs_joined": [
+        "coding club",
+        "cloud computing club",
+        "data science club"
+      ],
+      "buddy_count": 3
+    },
+    "activity": {
+      "login_streak": 3,
+      "posts_created": 10,
+      "buddies_interacted": 5,
+      "last_event_attended": "2025-06-07"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "batch_event_attendance": {
+        "coding-contest": 8,
+        "workshop": 17,
+        "hackathon": 16,
+        "startup-meetup": 15,
+        "career-fair": 18
+      },
+      "buddies_attending_events": [
+        "coding-contest"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_0",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "GRE",
+        "web development"
+      ],
+      "karma": 277,
+      "projects_added": 1,
+      "quiz_history": [
+        "javascript",
+        "data structures",
+        "aptitude"
+      ],
+      "clubs_joined": [
+        "data science club",
+        "coding club"
+      ],
+      "buddy_count": 0
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 3,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-06-07"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_1",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "DevOps",
+        "machine learning",
+        "GRE"
+      ],
+      "karma": 479,
+      "projects_added": 0,
+      "quiz_history": [],
+      "clubs_joined": [
+        "data science club",
+        "cloud computing club",
+        "coding club"
+      ],
+      "buddy_count": 0
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 4,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-06-03"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_2",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "cloud computing",
+        "machine learning"
+      ],
+      "karma": 245,
+      "projects_added": 4,
+      "quiz_history": [
+        "python",
+        "data structures",
+        "java"
+      ],
+      "clubs_joined": [
+        "coding club",
+        "data science club",
+        "AI club"
+      ],
+      "buddy_count": 6
+    },
+    "activity": {
+      "login_streak": 0,
+      "posts_created": 2,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-05-28"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_3",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "cloud computing"
+      ],
+      "karma": 414,
+      "projects_added": 1,
+      "quiz_history": [
+        "aptitude",
+        "java"
+      ],
+      "clubs_joined": [
+        "coding club",
+        "data science club",
+        "cloud computing club"
+      ],
+      "buddy_count": 0
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 8,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-06-15"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_4",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "DevOps",
+        "machine learning",
+        "GRE"
+      ],
+      "karma": 212,
+      "projects_added": 5,
+      "quiz_history": [
+        "algorithms",
+        "aptitude",
+        "data structures"
+      ],
+      "clubs_joined": [
+        "AI club",
+        "cloud computing club"
+      ],
+      "buddy_count": 2
+    },
+    "activity": {
+      "login_streak": 6,
+      "posts_created": 9,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-06-06"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_5",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "GRE",
+        "data science",
+        "machine learning"
+      ],
+      "karma": 154,
+      "projects_added": 2,
+      "quiz_history": [
+        "data structures",
+        "aptitude"
+      ],
+      "clubs_joined": [
+        "data science club"
+      ],
+      "buddy_count": 2
+    },
+    "activity": {
+      "login_streak": 5,
+      "posts_created": 10,
+      "buddies_interacted": 5,
+      "last_event_attended": "2025-06-04"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_6",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "GRE"
+      ],
+      "karma": 145,
+      "projects_added": 1,
+      "quiz_history": [
+        "python"
+      ],
+      "clubs_joined": [],
+      "buddy_count": 7
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 1,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-05-26"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_7",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "data science",
+        "GRE",
+        "DevOps"
+      ],
+      "karma": 55,
+      "projects_added": 0,
+      "quiz_history": [
+        "java",
+        "data structures"
+      ],
+      "clubs_joined": [
+        "cloud computing club"
+      ],
+      "buddy_count": 0
+    },
+    "activity": {
+      "login_streak": 4,
+      "posts_created": 8,
+      "buddies_interacted": 4,
+      "last_event_attended": "2025-06-02"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_8",
+    "profile": {
+      "resume_uploaded": false,
+      "goal_tags": [
+        "data science",
+        "web development",
+        "cloud computing"
+      ],
+      "karma": 418,
+      "projects_added": 2,
+      "quiz_history": [],
+      "clubs_joined": [],
+      "buddy_count": 3
+    },
+    "activity": {
+      "login_streak": 0,
+      "posts_created": 8,
+      "buddies_interacted": 3,
+      "last_event_attended": "2025-06-23"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  },
+  {
+    "user_id": "test_stu_2_9",
+    "profile": {
+      "resume_uploaded": true,
+      "goal_tags": [
+        "cloud computing",
+        "GRE"
+      ],
+      "karma": 57,
+      "projects_added": 4,
+      "quiz_history": [
+        "python",
+        "algorithms"
+      ],
+      "clubs_joined": [
+        "AI club"
+      ],
+      "buddy_count": 8
+    },
+    "activity": {
+      "login_streak": 1,
+      "posts_created": 9,
+      "buddies_interacted": 1,
+      "last_event_attended": "2025-06-06"
+    },
+    "peer_snapshot": {
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "batch_event_attendance": {
+        "career-fair": 13,
+        "hackathon": 17,
+        "startup-meetup": 20,
+        "coding-contest": 11,
+        "workshop": 9
+      },
+      "buddies_attending_events": [
+        "workshop",
+        "coding-contest",
+        "hackathon"
+      ]
+    }
+  }
+]

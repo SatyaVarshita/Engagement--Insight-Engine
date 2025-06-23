@@ -1,0 +1,7502 @@
+[
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 205,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 378,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 79,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 88,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 263,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 217,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 362,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 149,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 328,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 472,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 223,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 97,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 133,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 260,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 460,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 260,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 385,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 61,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 58,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 105,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 312,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 348,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 268,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 69,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 179,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 310,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 450,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 183,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 118,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 140,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 212,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 429,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 350,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 211,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 188,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 135,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 154,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 317,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 269,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 126,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 368,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 192,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 336,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 99,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 462,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 234,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 100,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 396,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 457,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 351,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 126,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 320,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 331,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 243,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 53,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 439,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 254,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 208,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 223,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 375,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 50,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 224,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 376,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 458,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 65,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 386,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 258,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 303,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 396,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 105,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 335,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 89,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 244,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 157,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 63,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 439,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 381,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 174,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 67,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 300,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 78,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 415,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 160,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 307,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 249,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 146,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 459,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 353,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 131,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 394,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 105,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 359,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 329,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 352,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 142,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 374,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 348,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 120,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 203,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 78,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 372,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 103,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 60,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 59,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 385,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 490,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 215,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 355,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 415,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 326,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 170,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 107,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 59,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 202,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 346,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 137,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 82,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 74,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 380,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 278,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 189,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 383,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 108,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 342,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 408,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 432,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 387,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 72,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 336,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 423,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 383,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 186,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 240,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 337,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 406,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 313,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 462,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 229,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 406,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 308,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 491,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 114,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 491,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 416,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 343,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 245,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 319,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 325,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 433,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 286,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 467,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 408,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 64,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 387,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 292,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 279,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 55,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 187,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 436,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 253,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 364,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 480,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 164,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 229,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 386,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 58,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 309,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 158,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 60,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 496,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 335,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 438,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 244,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 369,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 236,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 83,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 206,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 373,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 498,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 479,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 222,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 346,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 193,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 315,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 414,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 105,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 152,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 255,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 405,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 394,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 217,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 308,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 199,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 359,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 202,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 357,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 352,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 209,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 152,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 258,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 454,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 387,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 466,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 336,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 234,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 90,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 184,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 196,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 427,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 378,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 398,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 462,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 67,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 156,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 473,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 213,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 316,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 76,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 184,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 423,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 418,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 238,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 181,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 229,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 276,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 310,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 461,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 162,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 212,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 391,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 102,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 391,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 99,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 418,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 157,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 434,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 281,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 261,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 263,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 94,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 395,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 128,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 293,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 374,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 194,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 119,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 50,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 462,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 358,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 214,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 283,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 152,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 254,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 187,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 472,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 73,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 177,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 276,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 367,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 496,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 88,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 207,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 400,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 414,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 68,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 138,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 400,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 377,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 82,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 496,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 305,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 393,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 379,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 331,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 340,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 265,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 206,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 189,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 203,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 285,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 224,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 211,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 237,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 473,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 406,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 241,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 397,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 297,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 451,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 124,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 110,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 248,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 396,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 473,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 444,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 204,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 227,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 179,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 198,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 494,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 90,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 287,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 128,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 152,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 219,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 478,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 108,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 270,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 146,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 293,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 151,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 332,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 420,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 416,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 97,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 93,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 377,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 321,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 344,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 68,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 320,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 330,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 290,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 88,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 352,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 464,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 424,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 124,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 314,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 429,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 101,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 356,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 172,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 80,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 483,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 186,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 233,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 242,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 450,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 156,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 372,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 454,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 162,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 451,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 97,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 308,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 82,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 161,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 141,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 53,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 433,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 367,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 192,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 433,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 314,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 284,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 329,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 421,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 349,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 384,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 175,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 438,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 428,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 209,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 237,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 79,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 455,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 169,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 70,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 271,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 63,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 101,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 404,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 423,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 309,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 238,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 207,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 224,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 471,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 154,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 253,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 410,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 304,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 248,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 77,
+      "projects_added": 4,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 51,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 432,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 369,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 142,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 186,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 493,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 345,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 197,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 474,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 240,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 156,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 92,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 325,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 184,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 366,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 74,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 304,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 344,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 424,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 480,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 59,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 293,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 334,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 402,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 312,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 352,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 209,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 160,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 58,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 261,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 96,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 387,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 278,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 375,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 69,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 402,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 238,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 432,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 444,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 204,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 352,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 87,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 431,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 70,
+      "projects_added": 4,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 80,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 411,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 219,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 336,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 96,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 487,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 71,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 100,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 399,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 83,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 242,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 453,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 277,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 89,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 457,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 85,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 443,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 280,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 84,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 378,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 353,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 310,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 214,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 457,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 367,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 72,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 385,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 246,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 477,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 86,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 172,
+      "projects_added": 3,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 134,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 193,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 95,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 433,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 55,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 86,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 414,
+      "projects_added": 2,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 267,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 78,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 52,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 427,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 352,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 231,
+      "projects_added": 3,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 233,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 66,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 95,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 171,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 61,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 195,
+      "projects_added": 5,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 428,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 278,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 61,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 231,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 246,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 382,
+      "projects_added": 0,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 54,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 319,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 52,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 342,
+      "projects_added": 2,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 105,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 77,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 165,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 152,
+      "projects_added": 1,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 78,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 411,
+      "projects_added": 0,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 394,
+      "projects_added": 1,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 125,
+      "projects_added": 1,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 327,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 56,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 203,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 500,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 57,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 99,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 73,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 156,
+      "projects_added": 3,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 75,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 399,
+      "projects_added": 5,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 55,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 91,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 70,
+      "projects_added": 5,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 193,
+      "projects_added": 1,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 139,
+      "projects_added": 4,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 50,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 88,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 189,
+      "projects_added": 4,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 390,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 62,
+      "event_fomo_score": 2
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 222,
+      "projects_added": 2,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 412,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 212,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 64,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 364,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 60,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 191,
+      "projects_added": 5,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 65,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 97,
+      "projects_added": 5,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 93,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 187,
+      "projects_added": 2,
+      "batch_avg_projects": 1,
+      "batch_resume_uploaded_pct": 67,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 184,
+      "projects_added": 3,
+      "batch_avg_projects": 5,
+      "batch_resume_uploaded_pct": 90,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 211,
+      "projects_added": 3,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 245,
+      "projects_added": 2,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 94,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 294,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 50,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": true,
+      "karma": 420,
+      "projects_added": 0,
+      "batch_avg_projects": 4,
+      "batch_resume_uploaded_pct": 76,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 1,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 318,
+      "projects_added": 0,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 80,
+      "event_fomo_score": 0
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 403,
+      "projects_added": 0,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 92,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 1,
+      "should_nudge_event": 0
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 338,
+      "projects_added": 1,
+      "batch_avg_projects": 2,
+      "batch_resume_uploaded_pct": 81,
+      "event_fomo_score": 3
+    },
+    "label": {
+      "should_nudge_resume": 1,
+      "should_nudge_project": 0,
+      "should_nudge_event": 1
+    }
+  },
+  {
+    "features": {
+      "resume_uploaded": false,
+      "karma": 382,
+      "projects_added": 4,
+      "batch_avg_projects": 3,
+      "batch_resume_uploaded_pct": 53,
+      "event_fomo_score": 1
+    },
+    "label": {
+      "should_nudge_resume": 0,
+      "should_nudge_project": 0,
+      "should_nudge_event": 0
+    }
+  }
+]

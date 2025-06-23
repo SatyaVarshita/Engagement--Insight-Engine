@@ -1,0 +1,18 @@
+{
+  "profile_rules": {
+    "resume_threshold": 0.7,
+    "projects_avg_threshold": 2,
+    "quiz_idle_days": 7
+  },
+  "event_rules": {
+    "buddy_attendance_trigger": 2,
+    "batch_attendance_trigger": 10
+  },
+  "priority_labels": {
+    "resume": "high",
+    "project": "medium",
+    "quiz": "low",
+    "event_fomo": "medium"
+  },
+  "max_nudges_per_day": 3
+}
