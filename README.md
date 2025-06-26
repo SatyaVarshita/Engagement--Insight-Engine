@@ -41,18 +41,25 @@ Nudges are filtered and prioritized based on rules.
 1.## clone repository##
 git clone https://github.com/your-username/engagement-insight-engine.git
 cd engagement-insight-engine
-### 2. Install Requirements
+2. Create and activate a virtual environment
+🔹 On Windows:
+`bash`
+ python -m venv venv
+venv\Scripts\activate
+
+### 3. Install Requirements
 pip install -r requirements.txt
-3. Run the App
+4. Run the App
 bash
 uvicorn main:app --reload --port 8000
-4. Open Docs
+5. Open Docs
 http://localhost:8000/docs
 
 🐳 Docker (Optional)
 bash
 docker build -t engagement-insight-engine .
 docker run -p 8000:8000 engagement-insight-engine
+Again once seeing docker run in browser the command http://localhost:8000/docs
 
 ##API END POINTS##
 | Method | Endpoint              | Description                    |
@@ -108,7 +115,8 @@ docker run -p 8000:8000 engagement-insight-engine
 
 
 
-🙏 Acknowledgements
+🙏 Acknowledgements:
+## 🧠 AI Assistance Notice:
 This project was developed with the help of modern AI tools and manual customization:
 
 ChatGPT by OpenAI – Used to generate the base logic, test cases, and documentation structure.
@@ -116,3 +124,5 @@ ChatGPT by OpenAI – Used to generate the base logic, test cases, and documenta
 V0.dev by Vercel – Used to prototype any required frontend UI (if applicable).
 
 🛠️ All AI-generated content was reviewed and modified to meet exact project needs and functionality
+
+
