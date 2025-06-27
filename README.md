@@ -84,6 +84,15 @@ APP_ENV=development
 LOG_LEVEL=info
 
 
+🔐 Environment Variables (if calling external services)
+OPENAI_API_KEY=your_openai_api_key_here
+MODEL_PATH=models/nudge_model.pkl
+APP_ENV=development
+LOG_LEVEL=info
+
+
+
+
 
 
 🧪 Sample Test Case
