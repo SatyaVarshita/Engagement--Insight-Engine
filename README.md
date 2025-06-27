@@ -123,6 +123,8 @@ ChatGPT by OpenAI – Used to generate the base logic, test cases, and documenta
 
 V0.dev by Vercel – Used to prototype any required frontend UI (if applicable).
 
+🧉 Visual Studio Code (VS Code) – Primary IDE for development, testing, and debugging
+
 🛠️ All AI-generated content was reviewed and modified to meet exact project needs and functionality
 
 
