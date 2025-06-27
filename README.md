@@ -68,6 +68,24 @@ Again once seeing docker run in browser the command http://localhost:8000/docs
 | GET    | `/health`             | Health check                   |
 | GET    | `/version`            | Version info                   |
 
+
+
+
+# API Key or Secrets (if calling external services)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# ML Model Path (optional)
+MODEL_PATH=models/nudge_model.pkl
+
+# App Environment
+APP_ENV=development
+
+# Log Level
+LOG_LEVEL=info
+
+
+
+
 🧪 Sample Test Case
 
 {
